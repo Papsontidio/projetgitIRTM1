@@ -1,7 +1,7 @@
 # PROJET GIT IRT M1
 ## DESCRITPTION
 
-...
+```
 bash
 
-...
+```
